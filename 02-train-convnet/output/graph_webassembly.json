@@ -1,0 +1,125 @@
+{
+  "converted_at": 1528566826,
+  "weight_encoding": "raw",
+  "memory_layout": {
+    "static": {
+      "size": 375856,
+      "allocations": {
+        "a7": {
+          "name": "a7",
+          "offset": 365180,
+          "size": 2700
+        },
+        "a9": {
+          "name": "a9",
+          "offset": 367880,
+          "size": 2700
+        },
+        "a10": {
+          "name": "a10",
+          "offset": 290300,
+          "size": 27648
+        },
+        "a11": {
+          "name": "a11",
+          "offset": 317948,
+          "size": 16384
+        },
+        "a12": {
+          "name": "a12",
+          "offset": 334332,
+          "size": 16384
+        },
+        "a13": {
+          "name": "a13",
+          "offset": 361084,
+          "size": 4096
+        },
+        "a14": {
+          "name": "a14",
+          "offset": 243644,
+          "size": 46656
+        },
+        "a21": {
+          "name": "a21",
+          "offset": 350716,
+          "size": 10368
+        },
+        "a17": {
+          "name": "a17",
+          "offset": 370580,
+          "size": 2592
+        },
+        "a22": {
+          "name": "a22",
+          "offset": 373172,
+          "size": 2592
+        },
+        "a23": {
+          "name": "a23",
+          "offset": 375764,
+          "size": 92
+        },
+        "a1": {
+          "name": "a1",
+          "offset": 0,
+          "size": 432
+        },
+        "a2": {
+          "name": "a2",
+          "offset": 432,
+          "size": 16
+        },
+        "a3": {
+          "name": "a3",
+          "offset": 448,
+          "size": 4608
+        },
+        "a4": {
+          "name": "a4",
+          "offset": 5056,
+          "size": 32
+        },
+        "a5": {
+          "name": "a5",
+          "offset": 5088,
+          "size": 238464
+        },
+        "a6": {
+          "name": "a6",
+          "offset": 243552,
+          "size": 92
+        }
+      }
+    },
+    "dynamic": {
+      "size": 0,
+      "allocations": {}
+    }
+  },
+  "placeholders": {},
+  "unresolved_value_lists": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "inputs": [
+    "a7"
+  ],
+  "outputs": [
+    "a23"
+  ],
+  "licenses": {
+    "webdnn": "(C) Machine Intelligence Laboratory (The University of Tokyo), MIT License",
+    "eigen": "(C) Eigen authors, MPL 2.0 License"
+  }
+}
